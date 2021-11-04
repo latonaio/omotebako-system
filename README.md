@@ -79,23 +79,23 @@ omotebako-system 内 の 上記 各マイクロサービス は、それぞれ�
 ## omotebako-system に含まれるリソース  
 omotebako-system には、以下の マイクロサービス等 のリソースが含まれます。  
 
-・[aion-core](https://github.com/latonaio/aion-core)および関連リソース（Kubernetes Master Node、RabbitMQ、Fluentd、RedisCluster、MySQL、MongoDB、MongoExpressを含む）   
-・[ui-frontend-for-omotebako](https://github.com/latonaio/ui-frontend-for-omotebako)    
-・[ui-frontend-for-omotebako-mobile](https://github.com/latonaio/ui-frontend-for-omotebako-mobile)    
-・[load-balancer-for-movable-devices](https://github.com/latonaio/load-balancer-for-movable-devices)   
-・[authenticator](https://github.com/latonaio/authenticator)  
-・ui-backend-for-omotebako  
-・[calendar-module-kube](https://github.com/latonaio/calendar-module-kube)   
-・[azure-face-api-identifier-kube](https://github.com/latonaio/azure-face-api-identifier-kube)     
-・[register-face-to-guest-table](https://github.com/latonaio/register-face-to-guest-table-kube)     
-・[azure-face-api-registrator-kube](https://github.com/latonaio/azure-face-api-registrator-kube)    
-・[send-data-to-azure-iot-hub](https://github.com/latonaio/send-data-to-azure-iot-hub)    
-・[site-controller-data-update-to-mysql](https://github.com/latonaio/site-controller-data-update-to-mysql)  
-・[event-driven-face-existence-detection](https://github.com/latonaio/event-driven-face-existence-detection)    
-・[event-driven-audio-streaming](https://github.com/latonaio/event-driven-audio-streaming)  
-・[random-voice-streaming-periodic](https://github.com/latonaio/random-voice-streaming-periodic)    
-・[mysql-backup](https://github.com/latonaio/mysql-backup)      
-・[golang-logging-library](https://github.com/latonaio/golang-logging-library)   
-・[python-logging-library](https://github.com/latonaio/python-logging-library)   
-・[fluentd-for-containers-mongodb-kube](https://github.com/latonaio/fluentd-for-containers-mongodb-kube)  
-・[data-sweeper-kube](https://github.com/latonaio/data-sweeper-kube)  
+* [aion-core](https://github.com/latonaio/aion-core)および関連リソース（Kubernetes Master Node、RabbitMQ、Fluentd、RedisCluster、MySQL、MongoDB、MongoExpressを含む）   
+* [ui-frontend-for-omotebako](https://github.com/latonaio/ui-frontend-for-omotebako)    
+* [ui-frontend-for-omotebako-mobile](https://github.com/latonaio/ui-frontend-for-omotebako-mobile)    
+* [load-balancer-for-movable-devices](https://github.com/latonaio/load-balancer-for-movable-devices)   
+* [authenticator](https://github.com/latonaio/authenticator)  
+* ui-backend-for-omotebako  
+* [calendar-module-kube](https://github.com/latonaio/calendar-module-kube)   
+* [azure-face-api-identifier-kube](https://github.com/latonaio/azure-face-api-identifier-kube)     
+* [register-face-to-guest-table](https://github.com/latonaio/register-face-to-guest-table-kube)     
+* [azure-face-api-registrator-kube](https://github.com/latonaio/azure-face-api-registrator-kube)    
+* [send-data-to-azure-iot-hub](https://github.com/latonaio/send-data-to-azure-iot-hub)    
+* [site-controller-data-update-to-mysql](https://github.com/latonaio/site-controller-data-update-to-mysql)  
+* [event-driven-face-existence-detection](https://github.com/latonaio/event-driven-face-existence-detection)    
+* [event-driven-audio-streaming](https://github.com/latonaio/event-driven-audio-streaming)  
+* [random-voice-streaming-periodic](https://github.com/latonaio/random-voice-streaming-periodic)    
+* [mysql-backup](https://github.com/latonaio/mysql-backup)      
+* [golang-logging-library](https://github.com/latonaio/golang-logging-library)   
+* [python-logging-library](https://github.com/latonaio/python-logging-library)   
+* [fluentd-for-containers-mongodb-kube](https://github.com/latonaio/fluentd-for-containers-mongodb-kube)  
+* [data-sweeper-kube](https://github.com/latonaio/data-sweeper-kube)  
