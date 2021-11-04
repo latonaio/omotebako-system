@@ -67,7 +67,7 @@ omotebako-system には、以下の マイクロサービス等 のリソース�
 * [event-driven-face-existence-detection](https://github.com/latonaio/event-driven-face-existence-detection)    
 * [event-driven-audio-streaming](https://github.com/latonaio/event-driven-audio-streaming)  
 * [random-voice-streaming-periodic](https://github.com/latonaio/random-voice-streaming-periodic)    
-* [mysql-backup](https://github.com/latonaio/mysql-backup)      
+* [mysql-backup-to-usb-storage](https://github.com/latonaio/mysql-backup-to-usb-storage)      
 * [golang-logging-library](https://github.com/latonaio/golang-logging-library)   
 * [python-logging-library](https://github.com/latonaio/python-logging-library)   
 * [fluentd-for-containers-mongodb-kube](https://github.com/latonaio/fluentd-for-containers-mongodb-kube)  
