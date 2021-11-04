@@ -21,7 +21,7 @@ omotebako-system は、AION のプラットフォーム上での動作を前提�
 ![OMOTE-Bakoアーキテクチャ](documents/omotebako_architecture.drawio.png)    
 
 
-## 宿泊業向け の omotebako-system  
+## 宿泊業向け の omotebako-system に 含まれる機能（＝マイクロサービス）  
 宿泊業向け の omotebako-system には、次の機能が含まれています。    
 各機能は、マイクロサービスとして Kubernetes の Pod 上で 動作します。  
 
