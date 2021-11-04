@@ -18,7 +18,7 @@ omotebako-system は、AION のプラットフォーム上での動作を前提�
 
 
 ## omotebako-system の アーキテクチャ  
-![OMOTE-Bakoアーキテクチャ](documents/omotebako_architecture.drawio.png)    
+![OMOTE-Bakoアーキテクチャ](omotebako_architecture_20211016.drawio (8).png)    
 
 
 ## 宿泊業向け の omotebako-system に 含まれる機能（＝マイクロサービス）  
